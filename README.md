@@ -3,4 +3,4 @@
 MyPhoneEmergency is a shop repaire phone , computer and other
 =============================================================
 
-##first you can see a web page in construction
+## first you can see a web page in construction in folder "in construction"
